@@ -17,7 +17,7 @@ A página apresenta:
 - *JavaScript* → (para futuras interatividades)    
 
 ## 🔗 Acesse o Projeto  
-👉  
+👉  https://sacha-web.github.io/minha-primeira-web/ 
 
 ## 🙌 Créditos  
 Projeto desenvolvido por *Sacha Gonzaga e Silva* durante o curso da [PrograMaria](https://www.programaria.org/),  
